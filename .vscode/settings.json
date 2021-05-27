@@ -1,8 +1,0 @@
-{
-    "files.watcherExclude": {
-        "**/env/**": true
-    },
-    "workbench.editorAssociations": [
-    
-    ]
-}
